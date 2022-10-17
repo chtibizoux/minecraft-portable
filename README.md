@@ -12,6 +12,8 @@ A portable version of minecraft 1.19.2.
 
 [MinecraftLauncher.cmd](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/MinecraftLauncher.cmd): A script file to launch minecraft in a terminal with logs.
 
+[proxyLauncher.cmd](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/proxyLauncher.cmd): A script file to launch minecraft with a proxy (to bypass school proxy).
+
 [MinecraftLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/MinecraftLauncher.vbs): A script file to launch minecraft with a popup and without logs.
 
 [OfflineLauncher.exe](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/OfflineLauncher.exe): A launcher to automatically install minecraft without internet connexion (Minecraft files are already in .exe file) and launch it.
