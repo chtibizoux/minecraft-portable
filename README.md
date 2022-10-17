@@ -4,9 +4,7 @@ A portable version of minecraft 1.19.2
 
 [Download](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/MinecraftLauncher.exe)
 
-## Files description:
-
-[All files](https://github.com/chtibizoux/minecraft-portable/releases/tag/v1.0.0)
+## Files description ([All files](https://github.com/chtibizoux/minecraft-portable/releases/tag/v1.0.0)):
 
 [minecraft.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/minecraft.jar): Minecraft 1.19.2 compressed in a single jar file
 
