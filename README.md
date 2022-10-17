@@ -22,6 +22,6 @@ A portable version of minecraft 1.19.2.
 
 ![](https://github.com/chtibizoux/minecraft-portable/raw/main/minimizeToTray.gif)
 
-### If you want to use a proxy with `.exe` launchers create a `proxy.txt` file and write `<proxy host>:<proxy port>`
+#### If you want to use a proxy with `.exe` launchers create a `proxy.txt` file and write `<proxy host>:<proxy port>`
 
-### If you want to add other arguments to launch java create a `args.txt` file and write your args like `-Xms1024M -Xmx2G`
+#### If you want to add other arguments to launch java create a `args.txt` file and write your args like `-Xms1024M -Xmx2G`
