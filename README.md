@@ -6,9 +6,9 @@ A portable version of minecraft 1.19.2.
 
 ## Files description ([All files](https://github.com/chtibizoux/minecraft-portable/releases/tag/v1.0.0)):
 
-[minecraft.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/minecraft.jar): Minecraft 1.19.2 compressed in a single jar file
+[minecraft.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/minecraft.jar): Minecraft 1.19.2 compressed in a single jar file.
 
-[jdk.zip](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/jdk.zip): The Oracle JDK 19 shink to take up less space
+[jdk.zip](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/jdk.zip): The Oracle JDK 19 shink to take up less space.
 
 [MinecraftLauncher.cmd](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/MinecraftLauncher.cmd): A script file to launch minecraft in a terminal with logs.
 
