@@ -24,4 +24,4 @@ A portable version of minecraft 1.19.2.
 
 #### If you want to use a proxy with `.exe` launchers create a `proxy.txt` file next to the `exe` file and write `<proxy host>:<proxy port>`
 
-#### If you want to add other arguments to launch java create a `args.txt` file and write your args like `-Xms1024M -Xmx2G`
+#### If you want to launch java with other arguments create a `args.txt` file and write your args like `-Xms1024M -Xmx2G`
