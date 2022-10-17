@@ -20,6 +20,6 @@ A portable version of minecraft 1.19.2
 
 [MinecraftLauncher.exe](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/MinecraftLauncher.exe): A launcher to automatically download and install minecraft from this repository ([minecraft.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/minecraft.jar) and [jdk.zip](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/jdk.zip)) and launch it.
 
-.exe launchers can show minecraft logs and have a minimize to tray feature (to brainfuck your teacher).
+`.exe` launchers can show minecraft logs and have a minimize to tray feature (to brainfuck your teacher):
 
 ![](https://github.com/chtibizoux/minecraft-portable/raw/main/minimizeToTray.gif)
