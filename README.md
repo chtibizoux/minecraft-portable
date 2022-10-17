@@ -22,4 +22,4 @@ A portable version of minecraft 1.19.2
 
 .exe launchers can show minecraft logs and have a minimize to tray feature (to brainfuck your teacher).
 
-![]([https://user-images.githubusercontent.com/45465110/196205365-f6d35aea-9731-4530-b108-c777d8857de5.png](https://github.com/chtibizoux/minecraft-portable/raw/main/minimizeToTray.gif))
+![](https://github.com/chtibizoux/minecraft-portable/raw/main/minimizeToTray.gif)
