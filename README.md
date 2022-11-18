@@ -28,9 +28,9 @@ A portable version of minecraft 1.19.2.
 
 ## Use fabric mods
 
-#### Download [FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs) and [fabric.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric.jar) in same directory of minecraft files and download [fabric-api.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric-api.jar) in `mods` directory and start modded minecraft with `FabricLauncher.vbs`.
+#### Download [FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs) and [fabric.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric.jar) in same directory of minecraft files and [fabric-api.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric-api.jar) in `mods` directory (create one or launch fabric) and start fabric with `FabricLauncher.vbs`.
 
-If you are using `.exe` launchers start the launcher one time before to install files.
+If you are using `.exe` launchers start the launcher one time before to install minecraft files.
 
 [FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs): A script file to launch fabric with a popup and without logs.
 
