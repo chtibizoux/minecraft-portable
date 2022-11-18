@@ -25,3 +25,11 @@ A portable version of minecraft 1.19.2.
 #### If you want to use a proxy with `.exe` launchers create a `proxy.txt` file next to the `exe` file and write `<proxy host>:<proxy port>`
 
 #### If you want to launch java with other arguments create a `args.txt` file and write your args like `-Xms1024M -Xmx2G`
+
+## Mods
+
+### Download [FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs) and [fabric.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric.jar) in addition of minecraft file to use mods and start `FabricLauncher.vbs` to start modded minecraft
+
+[FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs): A script file to launch fabric and minecraft with a popup and without logs.
+
+[fabric.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric.jar): Fabricmc compressed in a single jar file.
