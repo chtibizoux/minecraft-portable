@@ -32,6 +32,8 @@ A portable version of minecraft 1.19.2.
 
 If you are using `.exe` launchers start the launcher one time before to install files.
 
-[FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs): A script file to launch fabric and minecraft with a popup and without logs.
+[FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs): A script file to launch fabric with a popup and without logs.
+
+[FabricLauncher.cmd](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/MinecraftLauncher.cmd): A script file to launch fabric in a terminal with logs.
 
 [fabric.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric.jar): Fabricmc compressed in a single jar file.
