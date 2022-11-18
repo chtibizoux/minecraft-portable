@@ -2,7 +2,7 @@
 
 A portable version of minecraft 1.19.2.
 
-[Download](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/MinecraftLauncher.exe)
+#### [Download](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/MinecraftLauncher.exe)
 
 ## Files description ([All files](https://github.com/chtibizoux/minecraft-portable/releases/tag/v1.0.0)):
 
@@ -28,7 +28,7 @@ A portable version of minecraft 1.19.2.
 
 ## Mods
 
-### Download [FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs) and [fabric.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric.jar) in addition of minecraft file to use mods and start `FabricLauncher.vbs` to start modded minecraft
+#### Download [FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs) and [fabric.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric.jar) in addition of minecraft file to use mods and start `FabricLauncher.vbs` to start modded minecraft
 
 [FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs): A script file to launch fabric and minecraft with a popup and without logs.
 
