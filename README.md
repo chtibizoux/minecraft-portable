@@ -26,9 +26,9 @@ A portable version of minecraft 1.19.2.
 
 #### If you want to launch java with other arguments create a `args.txt` file and write your args like `-Xms1024M -Xmx2G`
 
-## Mods
+## Use fabric
 
-#### Download [FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs) and [fabric.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric.jar) in addition of minecraft files to use mods and start modded minecraft with `FabricLauncher.vbs` and download [fabric-api.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric-api.jar) in `mods` folder.
+#### Download [FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs) and [fabric.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric.jar) in same directory of minecraft files and download [fabric-api.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric-api.jar) in `mods` directory and start modded minecraft with `FabricLauncher.vbs`.
 
 If you are using `.exe` launchers start the launcher one time before to install files.
 
