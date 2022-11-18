@@ -28,7 +28,7 @@ A portable version of minecraft 1.19.2.
 
 ## Mods
 
-#### Download [FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs) and [fabric.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric.jar) in addition of minecraft files to use mods and start modded minecraft with `FabricLauncher.vbs`.
+#### Download [FabricLauncher.vbs](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/FabricLauncher.vbs) and [fabric.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric.jar) in addition of minecraft files to use mods and start modded minecraft with `FabricLauncher.vbs` and download [fabric-api.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric-api.jar) in `mods` folder.
 
 If you are using `.exe` launchers start the launcher one time before to install files.
 
