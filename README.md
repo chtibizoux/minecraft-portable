@@ -37,3 +37,5 @@ If you are using `.exe` launchers start the launcher one time before to install 
 [FabricLauncher.cmd](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/MinecraftLauncher.cmd): A script file to launch fabric in a terminal with logs.
 
 [fabric.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric.jar): Fabricmc compressed in a single jar file.
+
+[fabric-api.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric-api.jar): The fabric api without minimum JAVA version verification due to bad version detection.
