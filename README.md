@@ -18,13 +18,13 @@ A portable version of minecraft 1.19.2.
 
 [MinecraftLauncher.exe](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/MinecraftLauncher.exe): A launcher to automatically download and install minecraft from this repository ([minecraft.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/minecraft.jar) and [jdk.zip](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/jdk.zip)) and launch it.
 
-`.exe` launchers can show minecraft logs and have a minimize to tray feature (to brainfuck your teacher):
-
 [CppLauncher.exe](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/CppLauncher.exe): A launcher writen in c++ (size less) to launch minecraft or fabric with `java.exe` or `javaw.exe` in [jdk](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/jdk.zip), it can show logs but don't install minecraft files automaticaly.
 
 [CppJniLauncher.exe](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/CppJniLauncher.exe): A launcher writen in c++ (size less) to launch minecraft or fabric with `jni` so you can use a sizeless jdk: [jdk-jni.zip](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/jdk-jni.zip), it can't show logs and don't install minecraft files automaticaly.
 
 [jdk-jni.zip](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/jdk-jni.zip): The Oracle JDK 19 shink to take up less space, it can only be used by [CppJniLauncher.exe](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/CppJniLauncher.exe). 
+
+`.exe` launchers can show minecraft logs and have a minimize to tray feature (to brainfuck your teacher):
 
 ![](https://github.com/chtibizoux/minecraft-portable/raw/main/minimizeToTray.gif)
 
