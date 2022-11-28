@@ -28,9 +28,7 @@ A portable version of minecraft 1.19.2.
 
 ![](https://github.com/chtibizoux/minecraft-portable/raw/main/minimizeToTray.gif)
 
-#### If you want to use a proxy with `.exe` launchers create a `proxy.txt` file next to the `exe` file and write `<proxy host>:<proxy port>`
-
-#### If you want to launch java with other arguments create a `args.txt` file and write your args like `-Xms1024M -Xmx2G`
+[comment]: <#### If you want to use a proxy with minecraft (bypass school proxy) download [Proxifier.zip](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/Proxifier.zip) extract it and start `Proxifier.exe`.>
 
 ## Use fabric mods
 
