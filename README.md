@@ -24,6 +24,6 @@ A portable version of minecraft 1.19.2.
 
 [fabric.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric.jar): FabricMC compressed in a single jar file.
 
-[frabric-remmaped-minecraft.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/frabric-remmaped-minecraft.jar): [minecraft.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/minecraft.jar) remmaped by fabric.
+[fabric-remmaped-minecraft.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric-remmaped-minecraft.jar): [minecraft.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/minecraft.jar) remmaped by fabric.
 
 [fabric-api.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric-api.jar): The fabric api without minimum JAVA_17 version verification due to bad version detection.
