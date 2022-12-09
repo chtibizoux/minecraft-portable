@@ -28,4 +28,4 @@ A portable version of minecraft 1.19.2.
 
 [fabric-api.jar](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric-api.jar): The fabric api without minimum JAVA_17 version verification due to bad version detection.
 
-[forge.zip](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/fabric-api.jar): Forge and minecraft 1.18.2 minimized in two folder.
+[forge.zip](https://github.com/chtibizoux/minecraft-portable/releases/download/v1.0.0/forge.zip): Forge and minecraft 1.18.2 minimized in two folder.
